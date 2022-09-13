@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.textM2{
+    font-size: 200%;
+    color: crimson;
+}
+.textM3{
+    font-size: 300%;
+    color: rgba(20, 220, 20, 0.705);
+}
+.textM4{
+    font-size: 400%;
+    color: rgb(33, 20, 220);
+}
+.textM5{
+    font-size: 500%;
+    color: rgb(165, 0, 143);
+}
+.textM6{
+    font-size: 600%;
+    color: rgb(85, 50, 141);
+}
+.textM7{
+    font-size: 700%;
+    color: rgb(220, 207, 20);
+}
+.textM8{
+    font-size: 800%;
+    color: rgb(145, 98, 12);
+}
+.textM9{
+    font-size: 900%;
+    color: rgb(146, 208, 224);
+}
